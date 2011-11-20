@@ -1,5 +1,11 @@
+<!DOCTYPE html>
 <html>
-<body>
-Hello World !
-</body>
-</html>
+    <head>
+            <meta charset="utf-8" />
+                    <title>Titre</title>
+                        </head>
+                        
+                            <body>
+                                
+                                   </body>
+                                    </html>

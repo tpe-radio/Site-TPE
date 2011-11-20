@@ -1,0 +1,37 @@
+body
+{
+}
+
+nav, section
+{
+	display: inline-block;
+	
+	border: 1px solid black;
+	
+	vertical-align: top;
+	padding: 5px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+}
+
+footer
+{
+	border: 1px solid black;
+	text-align: center;
+}
+
+h1
+{
+	text-align: center;
+	color : blue;
+}
+h2
+{
+	text-align: center;
+	color: red;
+}
+
+p
+{
+	text-align: justify;
+}
