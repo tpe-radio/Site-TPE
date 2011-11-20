@@ -1,5 +1,12 @@
 body
 {
+	font-family: Times, serif;
+}
+
+#block_principal
+{
+	width: 90%;
+	margin: auto;
 }
 
 nav, section
@@ -10,8 +17,23 @@ nav, section
 	
 	vertical-align: top;
 	padding: 5px;
-	margin-bottom: 20px;
-	margin-right: 10px;
+	margin-bottom: 2%;
+}
+
+nav
+{
+	width: 20%;
+	margin-right: 2.5%;
+}
+
+nav ul
+{
+	list-style-type: none;
+}
+
+section
+{
+	width: 75%;
 }
 
 footer
