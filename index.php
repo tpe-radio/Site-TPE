@@ -18,25 +18,32 @@
 	<body>
                 
                 <?php include("includes/header/header.php"); ?>
-                <?php include("includes/menus/nav_gauche.php"); ?>                
                 
-                <section id="corps">
-                        <p>
-                                Bienvenue sur le site de notre TPE.
-                        </p>
-                        <p>
-                                <h2>La problématique</h2>
-                                <blockquote class="problematique">Comment les deux guerres mondiales ont-elles transformé la radio, simple moyen de télécommunication, en un média à part entière ?</blockquote>
-                        </p>
-                        <p>
-                                <h2>Le plan</h2>
+                <div id="content">
+                
+                        <?php include("includes/menus/nav_gauche.php"); ?>                
+                        
+                        <div id="contenu">
+                                    
+                                        <p>
+                                                Bienvenue sur le site de notre TPE.
+                                        </p>
+                                        <p>
+                                                <h2>La problématique</h2>
+                                                <blockquote class="problematique">Comment les deux guerres mondiales ont-elles transformé la radio, simple moyen de télécommunication, en un média à part entière ?</blockquote>
+                                        </p>
+                                        <p>
+                                                <h2>Le plan</h2>
+                                                
+                                                <ul>
+                                                        <li>La radio de son invention à fin de la Première guerre mondiale : un moyen de télécommunication</li>
+                                                        <li>La radio entre les deux guerres jusqu'à la fin de la Seconde guerre mondiale : un nouveau média</li>
+                                                </ul>
+                                        </p>
                                 
-                                <ul>
-                                        <li>La radio de son invention à fin de la Première guerre mondiale : un moyen de télécommunication</li>
-                                        <li>La radio entre les deux guerres jusqu'à la fin de la Seconde guerre mondiale : un nouveau média</li>
-                                </ul>
-                        </p>
-                </section>
+                        </div>
+                
+                </div>
                 
                 <?php include("includes/footer/footer.php"); ?>	
                 
