@@ -3,7 +3,8 @@
 	<head>
 		<meta charset="utf-8" />
 		<link rel="stylesheet" href="style.css" />
-		
+		<title>Site d'un TPE sur la Radio</title>
+                
 		<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
@@ -12,13 +13,12 @@
         	<link rel="stylesheet" href="style_ie.css" />
         	<![endif]-->
 		
-		<title>L'évolution dans l'utilisation de la radio à travers les deux guerres mondiales − TPE 2011-2012, par Arthur et Elyes</title>
 	</head>
             
 	<body>
                 
                 <?php include("includes/header/header.php"); ?>
-                <?php include("includes/menus/nav-gauche.php"); ?>                
+                <?php include("includes/menus/nav_gauche.php"); ?>                
                 
                 <section id="corps">
                         <p>
