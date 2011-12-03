@@ -81,7 +81,7 @@ header
     display: inline-block;
     vertical-align: top;
 }
-.navg_title{
+p.navg_title{
     background-image : url("images/fond/navg_title1.png");
     margin : 0;
     padding : 5px;
