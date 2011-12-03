@@ -1,71 +1,70 @@
 body
 {
-	background-color : #888888;
-	margin : auto;
-	min-width : 1009px;
-	margin-left: 20px;
-	margin-right: 20px;
+    background-color : #888888 ;
+    margin : auto ;
+    min-width : 1009px ;
 }
 
-/* ============================ Blocks principaux ================================ */
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Banniere du site -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 header
 {
-	background-image : url("images/fond/banniere.jpeg");
-	background-position : 0px -30px;
-	height : 150px;
-	width : 100%;
-	min-width : 1009px;
-	opacity: 0.5;
+    background-image : url("images/fond/banniere.jpeg") ;
+    background-position : 0px -30px ;
+    height : 150px ;
+    width : 100% ;
+    min-width : 1009px ;
 }
 
-#contenu, nav
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Menu de Gauche de la Page -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+/*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||- Contenant des données de la Page -|||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+/*#contenu, nav
 {
-	display: inline-block; /* Le inline-block permet de ne pas sauter de ligne après un block, donc de mettre deux blocks côte-à-côte */
-
-	border: 1px solid black;
-
-	vertical-align: top; /* Ne marche que parce que "inline-block" */
-	padding: 5px;
-	margin-bottom: 20px;
+    display: inline-block;
+    
+    border: 1px solid black;
+    
+    vertical-align: top;
+    padding: 5px;
+    margin-bottom: 2%;
 }
 nav
 {
-	width: 250px; /* À modifier */
-	margin-right: 20px;
+    width: 20%;
+    margin-right: 2.5%;
 }
-
 nav ul
 {
-	list-style-type: none;
+    list-style-type: none;
 }
-
 section
 {
-	width: 100%; /* À modifier */
+    width: 75%;
 }
-
 footer
 {
-	border: 1px solid black;
-	text-align: center;
+    border: 1px solid black;
+    text-align: center;
 }
-
-/* =========================== Éléments généraux ====================== */
-
 h1
 {
-	text-align: center;
-	color : black;
+    text-align: center;
+    color : blue;
 }
-
 h2
 {
-	text-align: center;
-	color: red;
+    text-align: center;
+    color: red;
 }
-
 p
 {
-	text-align: justify;
-}
+    text-align: justify;
+}*/
