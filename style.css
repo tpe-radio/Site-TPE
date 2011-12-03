@@ -1,70 +1,207 @@
 body
 {
-    background-color : #888888 ;
-    margin : auto ;
-    min-width : 1009px ;
+    background-color : #f1f1f1;
+    margin : auto;
+    min-width : 1009px;
+    font: 80% "Trebuchet MS",Verdana,"Lucida Grande",Tahoma,Helvetica,Sans-Serif;
 }
 
-/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Banniere du site -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 header
 {
-    background-image : url("images/fond/banniere.jpeg") ;
-    background-position : 0px -30px ;
-    height : 150px ;
-    width : 100% ;
-    min-width : 1009px ;
+    background-image : url("images/fond/banniere.jpeg");
+    background-position : 0px -30px;
+    height : 150px;
+    width : 100%;
+    min-width : 1009px;
 }
 
-/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-/*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Menu de Gauche de la Page -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Onglets -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
-/*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-/*||||||||||||||||||||||||||||||||||||||||||||||||- Contenant des données de la Page -|||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-/*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-
-/*#contenu, nav
+#nav_onglets{
+    background-image : url("images/fond/nav_onglets.png");
+    height : 40px;
+    margin-bottom : 30px;
+    min-width : 1009px;
+    overflow : auto;
+}
+#nav_onglets ul
 {
+    list-style-type : none;
+    font : bold 13px Calibri Dejavusans Arial serif;
+    text-align : center;
+    height : 20px;
+    min-height : 20px;
+    width : 600px;
+    margin : auto;
+    padding-top : 9px;
+    padding-bottom : 9px;
+    text-shadow : #000 0px 0px 5px;
+}
+#onglets li
+{
+    float : left;
+    text-align : center;
+    font-family : "Calibri", Arial;
+    padding-right : 15px;
+    padding-left : 15px;
+}
+#onglets a
+{
+    padding : 4px;
+    color : #666;
+    text-decoration : none;
+    line-height : 200%;
+    font-variant : small-caps;
+}
+#onglets a:hover
+{
+    color : #B3D53C;
+    /*border-bottom : 3px solid #0c5500;*/
+    text-shadow : #fff 0px 0px 5px;
+}
+
+/*|||||||||||||||||||||||||||||||||||||||||||||||- Contenant du Menu de Gauche, et du Contenu de la Page -|||||||||||||||||||||||||||||||||||||||||||||||*/
+
+#content{
+    width : 990px;
+    min-width : 990px;
+    margin : auto;
+    border-image: url("images/fond/content.png") 6 stretch; 
+    -moz-border-image: url("images/fond/content.png") 6 stretch;
+    -webkit-border-image: url("images/fond/content.png") 6 stretch; 
+    background-color : #f8f8f8;
+}
+
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Menu de Gauche de la Page -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+#menu_gauche{
     display: inline-block;
-    
-    border: 1px solid black;
-    
     vertical-align: top;
-    padding: 5px;
-    margin-bottom: 2%;
 }
-nav
-{
-    width: 20%;
-    margin-right: 2.5%;
+.navg_title{
+    background-image : url("images/fond/navg_title1.png");
+    margin : 0;
+    padding : 5px;
+    padding-top : 7px;
+    padding-bottom : 7px;
+    text-align : center;
+    font-size : 120%;
+    font-weight : bold;
+    color: #931f00;
+    text-shadow : 0px 0px 3px #fff;
 }
-nav ul
-{
-    list-style-type: none;
+nav.nav_gauche{
+    width : 220px;
+    margin : 18px;
+    border-image: url("images/fond/menu_gauche.png") 3 stretch;
+    -moz-border-image: url("images/fond/menu_gauche.png") 3 stretch;
+    -webkit-border-image: url("images/fond/menu_gauche.png") 3 stretch;
 }
-section
+#menu_gauche ul /*Permet de ne pas indenter les listes du premier degré */
 {
-    width: 75%;
+    list-style-type : none;
+    margin-left : 0;
+    padding-left : 0;
 }
-footer
+.navigation
 {
-    border: 1px solid black;
-    text-align: center;
+    margin: 0; 
+    padding: 0;
+    list-style: none;
+    font: 10px Arial, Trebuchet MS;
+    padding-bottom : 20px;
 }
-h1
+.navigation a, .navigation span
 {
-    text-align: center;
-    color : blue;
+    display : block;
+    padding-bottom : 5px;
+    padding-top : 5px;
+    padding-left : 20px;
+    padding-right : 20px;
+    text-decoration : none;
+    color : /*#5689cf; */ #305587;
+    font-size : 12px;
 }
-h2
+.navigation a:hover, .navigation span:hover
 {
-    text-align: center;
-    color: red;
+    color : #5ba035;
 }
-p
+.navigation li.toggleSubMenu
 {
-    text-align: justify;
-}*/
+    background-image : url("/images/fleche-droite-petit.png");
+    background-position : 210px 15px;
+    background-repeat : no-repeat;
+    padding-top : 5px;
+}
+.navigation li.toggleSubMenua
+{
+    background : none;
+    padding-top : 5px;
+}
+.navigation li.open
+{
+    background : url("/images/fleche-bas-petit.png") no-repeat 210px 15px;
+}
+.navigation li.open a
+{
+    color : #5ba035;
+}
+.navigation li.open ul.subMenu
+{
+    border-top : 1px solid #878787;
+}
+.navigation li img
+{
+    foat : left;
+}
+.navigation ul.subMenu
+{
+    background-color : #517cb1;
+    font: 10px Trebuchet MS, sans-serif;
+}
+.navigation ul.subMenu a
+{
+    color : #f1f1f1;
+    font-style : italic;
+}
+.navigation ul.subMenu a:hover
+{
+    color : #d99b08;
+}
+
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Contenant des données de la Page -|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+section{
+    display : inline-block;
+    vertical-align : top;
+    width : 711px;
+    padding : 5px;
+}
+
+/*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Footer, droits ... -|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+footer{
+    margin : auto;
+    width : 970px;
+    min-width : 970px;
+    background-color : #505050;
+    margin-top : 20px;
+    padding : 10px;
+    border-top-left-radius : 8px;
+    border-top-right-radius : 8px;
+    -moz-border-radius-topleft : 8px;
+    -moz-border-radius-topright : 8px;
+    -webkit-border-top-left-radius : 8px;
+    -webkit-border-top-right-radius : 8px;
+    color : #aeaeae;
+}
+footer a{
+    color : #e7e1b6;
+    font-style : bold;
+}
+footer a:hover{
+    color : #d99b08;
+}
