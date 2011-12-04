@@ -31,18 +31,14 @@
                                         <p>
                                                 Bienvenue sur le site de notre TPE.
                                         </p>
-                                        <p>
-                                                <h2>La problématique</h2>
-                                                <blockquote class="problematique">Comment les deux guerres mondiales ont-elles transformé la radio, simple moyen de télécommunication, en un média à part entière ?</blockquote>
-                                        </p>
-                                        <p>
-                                                <h2>Le plan</h2>
-                                                
-                                                <ul>
-                                                        <li>I</li>
-                                                        <li>II</li>
-                                                </ul>
-                                        </p>
+                                        <h2>La problématique</h2>
+                                        <p>Comment les deux guerres mondiales ont-elles transformé la radio, simple moyen de télécommunication, en un média à part entière ?</p>
+                                        <h2>Le plan</h2>
+                                        
+                                        <ul>
+                                                <li>I</li>
+                                                <li>II</li>
+                                        </ul>
                                         <p>
                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat nulla sed ipsum rhoncus et feugiat massa luctus. Sed vehicula blandit ullamcorper. Etiam vel tincidunt leo. Cras sit amet quam felis, eget porta orci. Etiam congue posuere euismod. Nunc posuere, turpis ut pellentesque dictum, libero turpis interdum lacus, ut lobortis nulla sem nec est. Morbi posuere ante eget lorem euismod volutpat. Integer bibendum fringilla lacus, at vestibulum ligula luctus eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse potenti. Curabitur sit amet ipsum risus. Cras dui odio, convallis vitae interdum sit amet, eleifend at magna.
 
