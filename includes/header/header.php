@@ -1,4 +1,10 @@
 <header>
-                L'évolution dans l'utilisation de la radio à travers les deux guerres mondiales
-                TPE 2011-2012, par Elyes et Arthur.
+        <div class="header_text">
+                <p id="header_title">
+                    L'évolution de la Radio à travers les deux guerres mondiales
+                </p>
+                <p id="header_subtitle">
+                    TPE 2011-2012 par Elyes et Arthur - Condorcet
+                </p>
+        </div>
 </header>

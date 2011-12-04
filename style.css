@@ -17,6 +17,28 @@ header
     width : 100%;
     min-width : 1009px;
 }
+div.header_text{
+    background : url("images/fond/header_title.png") no-repeat;
+    padding-left : 70px;
+    height : 70px;
+    position : absolute;
+    top : 30px;
+    left : 20px;
+}
+header p{
+    margin : 0;
+    padding : 0;
+}
+#header_title{
+    color : #e3e3e3;
+    font-size : 25px;
+    text-shadow : 0 0 5px #fff;
+}
+#header_subtitle{
+    color : #588f23;
+    font-size : 15px;
+    text-shadow : 0 0 5px #000;
+}
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Onglets -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
@@ -73,6 +95,7 @@ header
     -moz-border-image: url("images/fond/content.png") 6 stretch;
     -webkit-border-image: url("images/fond/content.png") 6 stretch; 
     background-color : #f8f8f8;
+    z-index : -1;
 }
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Menu de Gauche de la Page -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
@@ -190,6 +213,8 @@ footer{
     background-color : #505050;
     margin-top : 20px;
     padding : 10px;
+    padding-top : 30px;
+    padding-bottom : 40px;
     border-top-left-radius : 8px;
     border-top-right-radius : 8px;
     -moz-border-radius-topleft : 8px;
@@ -197,6 +222,8 @@ footer{
     -webkit-border-top-left-radius : 8px;
     -webkit-border-top-right-radius : 8px;
     color : #aeaeae;
+    position : relative;
+    z-index : 1;
 }
 footer a{
     color : #e7e1b6;
@@ -204,4 +231,31 @@ footer a{
 }
 footer a:hover{
     color : #d99b08;
+}
+div.radiof{
+    position : absolute;
+    left : -70px;
+    bottom : 100px;
+}
+div.radiof img{
+    -moz-transform: translate(100px) rotate(20deg);
+    -moz-transform-origin: 60% 100%;
+    -webkit-transform: translate(100px) rotate(20deg);
+    -webkit-transform-origin: 60% 100%;
+    transform: translate(100px) rotate(20deg);
+    transform-origin: 60% 100%;
+}
+footer blockquote{
+    background-image : url("images/fond/footer_bq.png");
+    background-position : 0px 5px;
+    background-repeat : no-repeat;
+    position : absolute;
+    left : 500px;
+    bottom : 1px;
+    font-size : 15px;
+    text-shadow : 0 0 5px #000;
+    padding-top : 50px;
+    padding-left : 30px;
+    padding-right : 50px;
+    padding-bottom : 15px;
 }
