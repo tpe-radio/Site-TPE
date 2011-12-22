@@ -60,7 +60,7 @@ header p{
     margin : auto;
     padding-top : 9px;
     padding-bottom : 9px;
-    text-shadow : #000 0px 0px 5px;
+    /*text-shadow : #000 0px 0px 5px;*/
 }
 #onglets li
 {
@@ -73,16 +73,16 @@ header p{
 #onglets a
 {
     padding : 4px;
-    color : #666;
+    color : #000;
     text-decoration : none;
     line-height : 200%;
-    font-variant : small-caps;
+    /*font-variant : small-caps;*/
 }
 #onglets a:hover
 {
     color : #B3D53C;
     /*border-bottom : 3px solid #0c5500;*/
-    text-shadow : #fff 0px 0px 5px;
+    /*text-shadow : #fff 0px 0px 5px;*/
 }
 
 /*|||||||||||||||||||||||||||||||||||||||||||||||- Contenant du Menu de Gauche, et du Contenu de la Page -|||||||||||||||||||||||||||||||||||||||||||||||*/
