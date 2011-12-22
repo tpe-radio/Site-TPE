@@ -5,7 +5,8 @@
 		<link rel="stylesheet" href="style.css" />
                 <script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
                 <link rel="icon" type="image/png" href="images/favicon.png" />
-		<title>Site d'un TPE sur la Radio</title>
+                
+		<title>L'évolution dans l'utilisation de la radio à travers les deux guerres mondiales − TPE 2011-2012 par Arthur et Elyes</title>
                 
 		<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -26,18 +27,28 @@
 		
 		<?php include("includes/menus/nav_gauche.php"); ?>           
                         
-		<section>
+		<section id="contenu">
 			    
 				<p>
 					Bienvenue sur le site de notre TPE.
 				</p>
 				<h2>La problématique</h2>
-				<p>Comment les deux guerres mondiales ont-elles transformé la radio, simple moyen de télécommunication, en un média à part entière ?</p>
+				<p class="problematique">Comment les deux guerres mondiales ont-elles transformé la radio, simple moyen de télécommunication, en un média à part entière ?</p>
 				<h2>Le plan</h2>
 				
 				<ul>
-					<li>I</li>
-					<li>II</li>
+					<li>I − La radio, de son invention à la fin de la Première Guerre moniale : un moyen de télécommunication</li>
+					<ol>
+						<li>La Révolution des ondes</li>
+						<li>Les premières utilisations de la TSF : naissance d'un moyen de télécommunication</li>
+						<li>La Première guerre mondiale : industrialisation de la radio</li>
+					</ol>
+					<li>II − De l'entre-deux-guerre à la fin de la Seconde Guerre mondiale : un nouveau média est né</li>
+					<ol>
+						<li>Après la Première Guerre mondiale : naissance d'un média</li>
+						<li>La radio comme moyen de guerre pour la résistance</li>
+						<li>La radio comme instrument de propagande pour les dictatures fascistes</li>
+					</ol>
 				</ul>
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat nulla sed ipsum rhoncus et feugiat massa luctus. Sed vehicula blandit ullamcorper. Etiam vel tincidunt leo. Cras sit amet quam felis, eget porta orci. Etiam congue posuere euismod. Nunc posuere, turpis ut pellentesque dictum, libero turpis interdum lacus, ut lobortis nulla sem nec est. Morbi posuere ante eget lorem euismod volutpat. Integer bibendum fringilla lacus, at vestibulum ligula luctus eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse potenti. Curabitur sit amet ipsum risus. Cras dui odio, convallis vitae interdum sit amet, eleifend at magna.
