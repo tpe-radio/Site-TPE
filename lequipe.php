@@ -28,7 +28,8 @@
 			<?php include("includes/menus/nav_gauche.php"); ?>           
                         
 			<section id="contenu">
-				<h1>Contact</h1>
+				<h1>Bibliographie</h1>
+				
 			</section>
 		
 		</div>
