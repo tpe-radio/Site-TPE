@@ -6,7 +6,7 @@
                 <script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
                 <link rel="icon" type="image/png" href="images/favicon.png" />
                 
-		<title>Bibliographie</title>
+		<title>L'équipe</title>
                 
 		<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -28,7 +28,7 @@
 			<?php include("includes/menus/nav_gauche.php"); ?>           
                         
 			<section id="contenu">
-				<h1>Bibliographie</h1>
+				<h1>L'équipe</h1>
 				
 			</section>
 		
