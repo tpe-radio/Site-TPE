@@ -20,38 +20,42 @@
             
 	<body>
                 
-                <?php include("includes/header/header.php"); ?>
-                <?php include("includes/menus/nav_onglets.php"); ?>  
+		<?php include("includes/header/header.php"); ?>
+		<?php include("includes/menus/nav_onglets.php"); ?>  
                 
 		<div id="corps">
 		
 		<?php include("includes/menus/nav_gauche.php"); ?>           
                         
 		<section id="contenu">
-			    
-				<p>
-					Bienvenue sur le site de notre TPE.
-				</p>
-				<h2>La problématique</h2>
-				<p class="problematique">Comment les deux guerres mondiales ont-elles transformé la radio, simple moyen de télécommunication, en un média à part entière ?</p>
-				<h2>Le plan</h2>
-				
-				<ul>
-					<li>I − La radio, de son invention à la fin de la Première Guerre moniale : un moyen de télécommunication</li>
-					<ol>
-						<li>La Révolution des ondes</li>
-						<li>Les premières utilisations de la TSF : naissance d'un moyen de télécommunication</li>
-						<li>La Première guerre mondiale : industrialisation de la radio</li>
-					</ol>
-					<li>II − De l'entre-deux-guerre à la fin de la Seconde Guerre mondiale : un nouveau média est né</li>
-					<ol>
-						<li>Après la Première Guerre mondiale : naissance d'un média</li>
-						<li>La radio comme moyen de guerre pour la résistance</li>
-						<li>La radio comme instrument de propagande pour les dictatures fascistes</li>
-					</ol>
-				</ul>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat nulla sed ipsum rhoncus et feugiat massa luctus. Sed vehicula blandit ullamcorper. Etiam vel tincidunt leo. Cras sit amet quam felis, eget porta orci. Etiam congue posuere euismod. Nunc posuere, turpis ut pellentesque dictum, libero turpis interdum lacus, ut lobortis nulla sem nec est. Morbi posuere ante eget lorem euismod volutpat. Integer bibendum fringilla lacus, at vestibulum ligula luctus eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse potenti. Curabitur sit amet ipsum risus. Cras dui odio, convallis vitae interdum sit amet, eleifend at magna.
+			
+			<h1>Accueil</h1>
+			
+			<p>
+				Bienvenue sur le site de notre TPE.
+			</p>
+			
+			<h2>La problématique</h2>
+			<p class="problematique">Comment les deux guerres mondiales ont-elles transformé la radio, simple moyen de télécommunication, en un média à part entière ?</p>
+			
+			<h2>Le plan</h2>
+			
+			<ul>
+				<li>I − La radio, de son invention à la fin de la Première Guerre moniale : un moyen de télécommunication</li>
+				<ol>
+					<li>La Révolution des ondes</li>
+					<li>Les premières utilisations de la TSF : naissance d'un moyen de télécommunication</li>
+					<li>La Première guerre mondiale : industrialisation de la radio</li>
+				</ol>
+				<li>II − De l'entre-deux-guerre à la fin de la Seconde Guerre mondiale : un nouveau média est né</li>
+				<ol>
+					<li>Après la Première Guerre mondiale : naissance d'un média</li>
+					<li>La radio comme moyen de guerre pour la résistance</li>
+					<li>La radio comme instrument de propagande pour les dictatures fascistes</li>
+				</ol>
+			</ul>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat nulla sed ipsum rhoncus et feugiat massa luctus. Sed vehicula blandit ullamcorper. Etiam vel tincidunt leo. Cras sit amet quam felis, eget porta orci. Etiam congue posuere euismod. Nunc posuere, turpis ut pellentesque dictum, libero turpis interdum lacus, ut lobortis nulla sem nec est. Morbi posuere ante eget lorem euismod volutpat. Integer bibendum fringilla lacus, at vestibulum ligula luctus eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse potenti. Curabitur sit amet ipsum risus. Cras dui odio, convallis vitae interdum sit amet, eleifend at magna.
 
 Phasellus consequat cursus sollicitudin. Suspendisse condimentum aliquam dui at gravida. Duis ornare pretium luctus. Integer ut ornare sem. Nunc elementum aliquet est, sit amet ultrices turpis pretium sit amet. Aenean bibendum enim interdum nibh ultrices feugiat. Sed eu elit ac ligula auctor lacinia nec a nisl.
 
@@ -64,7 +68,7 @@ Fusce at ipsum nulla. Vivamus a ligula est. Proin aliquam pharetra turpis vitae 
 Praesent sed tincidunt nulla. Vivamus fermentum lobortis nunc, in faucibus nibh blandit faucibus. Mauris tristique erat in quam vehicula sagittis. Nulla justo eros, euismod sit amet dictum eu, aliquet quis purus. Aliquam erat volutpat. Curabitur suscipit pretium est eget iaculis. Aenean scelerisque, nulla a scelerisque faucibus, tortor dui elementum est, sit amet sollicitudin nunc nulla tempus libero. Mauris quis diam ac arcu accumsan aliquam dapibus nec lacus. Duis id odio in orci tempor tempor faucibus placerat est. Morbi vehicula odio est. Nam libero lacus, iaculis placerat vestibulum sed, faucibus eu nulla. Nam nulla ligula, convallis non lobortis ac, eleifend in velit. Vestibulum eu sapien in nisl vestibulum aliquet non in augue.
 
 Donec in nisi risus, sed faucibus neque. Phasellus molestie malesuada odio ut lacinia. Phasellus laoreet, velit at dignissim placerat, urna felis venenatis magna, at egestas turpis lacus eget elit. Nunc pharetra molestie ligula ut rutrum. Phasellus malesuada pretium dolor, vel mollis risus bibendum vitae. Quisque pharetra, mi et dignissim eleifend, nisi velit blandit turpis, venenatis luctus eros velit at nisi. Ut in libero semper tellus vehicula dignissim. Vestibulum scelerisque ultricies orci, eu suscipit arcu sagittis ut. Sed at cursus nisi. Nullam orci neque, venenatis sed sollicitudin imperdiet, consequat molestie felis. Nunc sagittis purus id sem dictum molestie. Vivamus arcu felis, pulvinar non auctor a, aliquet non tellus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam interdum ipsum nec augue congue molestie. Curabitur ornare dapibus luctus. 
-				</p>
+			</p>
 			
 		</section>
 		
