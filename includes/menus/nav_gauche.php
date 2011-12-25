@@ -33,98 +33,22 @@
 		// --> 
 </script>
 <div id="menu_gauche">
-                        <nav class="nav_gauche">
-                                    <p class="navg_title">Un moyen de télécommunication</p>
-                                    <ul class="navigation">
-                                                <li class="toggleSubMenu"><span>La révolution des Ondes</span>
-                                                                
-                                                            <ul class="subMenu" >
-                                                                    
-                                                                    <li><a href="#">Item I 1.1</a></li>
-                                                                    <li><a href="#">Item I 1.2</a></li>
-                                                                    <li><a href="#">Item I 1.3</a></li>
-                                                                    <li><a href="#">Item I 1.4</a></li>
-                                                                    <li><a href="#">Item I 1.5</a></li>
-                                                                    
-                                                            </ul>
-                                                                        
-                                                </li>
-                                                <li class="toggleSubMenu"><span>Les premières utilisations de la TSF</span>
-                                                                
-                                                            <ul class="subMenu" >
-                                                                    
-                                                                    <li><a href="#">Item I 2.1</a></li>
-                                                                    <li><a href="#">Item I 2.2</a></li>
-                                                                    <li><a href="#">Item I 2.3</a></li>
-                                                                    <li><a href="#">Item I 2.4</a></li>
-                                                                    <li><a href="#">Item I 2.5</a></li>
-                                                                    
-                                                            </ul>
-                                                                        
-                                                </li>
-                                                <li class="toggleSubMenu"><span>La 1°G.M., ou un développement massif de la radio</span>
-                                                                
-                                                            <ul class="subMenu" >
-                                                                    
-                                                                    <li><a href="#">Item I 3.1</a></li>
-                                                                    <li><a href="#">Item I 3.2</a></li>
-                                                                    <li><a href="#">Item I 3.3</a></li>
-                                                                    <li><a href="#">Item I 3.4</a></li>
-                                                                    <li><a href="#">Item I 3.5</a></li>
-                                                                    
-                                                            </ul>
-                                                                        
-                                                </li>
-                                                <li>
-                                                            <a href="#">Voir l'ensemble</a>
-                                                </li>
-                                    </ul>
-                        </nav>
-                        <nav class="nav_gauche">
-                                    <p class="navg_title">Un nouveau média est né</p>
-                                    <ul class="navigation">
-                                                <li class="toggleSubMenu"><span>L'entre-deux-guerres, ou la naissance d'un média</span>
-                                                                
-                                                            <ul class="subMenu" >
-                                                                    
-                                                                    <li><a href="#">Item II 1.1</a></li>
-                                                                    <li><a href="#">Item II 1.2</a></li>
-                                                                    <li><a href="#">Item II 1.3</a></li>
-                                                                    <li><a href="#">Item II 1.4</a></li>
-                                                                    <li><a href="#">Item II 1.5</a></li>
-                                                                    
-                                                            </ul>
-                                                                        
-                                                </li>
-                                                <li class="toggleSubMenu"><span>La radio, un moyen de guerre pour la Résistance</span>
-                                                                
-                                                            <ul class="subMenu" >
-                                                                    
-                                                                    <li><a href="#">Item II 2.1</a></li>
-                                                                    <li><a href="#">Item II 2.2</a></li>
-                                                                    <li><a href="#">Item II 2.3</a></li>
-                                                                    <li><a href="#">Item II 2.4</a></li>
-                                                                    <li><a href="#">Item II 2.5</a></li>
-                                                                    
-                                                            </ul>
-                                                                        
-                                                </li>
-                                                <li class="toggleSubMenu"><span>La radio, un instrument de propagande pour les dictatures fascistes</span>
-                                                                
-                                                            <ul class="subMenu" >
-                                                                    
-                                                                    <li><a href="#">Item II 3.1</a></li>
-                                                                    <li><a href="#">Item II 3.2</a></li>
-                                                                    <li><a href="#">Item II 3.3</a></li>
-                                                                    <li><a href="#">Item II 3.4</a></li>
-                                                                    <li><a href="#">Item II 3.5</a></li>
-                                                                    
-                                                            </ul>
-                                                                        
-                                                </li>
-                                                <li>
-                                                            <a href="#">Voir l'ensemble</a>
-                                                </li>
-                                    </ul>
-                        </nav>
+	<nav class="nav_gauche">
+		<p class="navg_title">Un moyen de télécommunication</p>
+		<ul class="navigation">
+			<li><a href="revolution_ondes.php">La révolution des Ondes</a></li>
+			<li><a href="premieres_utilisations.php">Les premières utilisations de la TSF</a></li>
+			<li><a href="premiere_guerre_mondiale.php">La 1°G.M., ou un développement massif de la radio</a></li>
+		</ul>
+	</nav>
+	
+	<nav class="nav_gauche">
+		<p class="navg_title">Un nouveau média est né</p>
+		<ul class="navigation">
+			<li><a href="entre_deux_guerres.php">L'entre-deux-guerres, ou la naissance d'un média</a></li>
+			<li><a href="resistance.php">La radio, un moyen de guerre pour la Résistance</a></li>
+			<li><a href="propagande.php">La radio, un instrument de propagande pour les dictatures fascistes</a></li>
+		</ul>
+</ul>
+</nav>
 </div>
