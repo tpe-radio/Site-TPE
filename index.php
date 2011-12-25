@@ -74,7 +74,7 @@ Donec in nisi risus, sed faucibus neque. Phasellus molestie malesuada odio ut la
 		
 		</div>
                 
-                <?php include("includes/footer/footer.php"); ?>	
+		<?php include("includes/footer/footer.php"); ?>	
                 
 	</body>
 </html>
