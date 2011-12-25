@@ -37,7 +37,7 @@
 				<h3>La radio, une nécessité historique</h3>
 				
 				<p class="paragraphe">
-					De tout temps, les hommes ont exprimé un besoin de communiquer.
+					De tout temps, les hommes ont éprouvé un besoin de communiquer.
 					Ils utilisèrent d'abord les gestes, la parole et l'écriture.
 					Pour pouvoir aller plus loin dans les communications, ils élaborèrent divers systèmes au cours du temps : les messagers, le courrier postale, les pigeons voyageurs, etc.
 					Ces systèmes étaient souvent trop lents, ou pas assez fiables. 
@@ -72,15 +72,15 @@
 				<h3>La TSF, une invention progressive aux multiples auteurs</h3>
 				
 				<p class="paragraphe">
-					La première transmission d'ondes électromagnétiques est due au physicien allemand Heinrich Hertz. 
+					La première transmission d'ondes électromagnétiques est due au physicien allemand <strong>Heinrich Hertz</strong>. 
 					Dans une volonté de vérifier expérimentalement les prédictions de Maxwell, notamment l'existence d'ondes électriques, il réalise en 1888 un émetteur, constitué d'un éclateur à étincelle alimenté par une bobine, et un détecteur, consistant en une simple boucle de fil de cuivre ouverte, dont les extrêmités sont très proches. 
 					Lorsque l'éclateur fonctionne, il constate qu'une toute petite étincelle apparaît entre les deux extrémités du détecteur, situé à quelques mètres. 
 					L'existence de ce que l'on appellera plus tard les « ondes hertziennes » est démontrée. 
 					Toutefois, ce concept n'a, en l'état, encore aucune application pratique possible. 
-					Deux ans plus tard, le français Edouard Branly, lors de ses études sur la conductibilité, constate qu'un tube de verre contenant de la limaille de fer devient conducteur en présence d'ondes électromagnétiques. 
+					Deux ans plus tard, le français <strong>Edouard Branly</strong>, lors de ses études sur la conductibilité, constate qu'un tube de verre contenant de la limaille de fer devient conducteur en présence d'ondes électromagnétiques. 
 					Il s'agit du premier récepteur réellement utilisable, bien qu'il faille encore tapoter dessus entre chaque réceptions pour lui enlever sa conductibilité. 
-					Ce problème sera réglé par le physicien anglais Sir Oliver Lodge en 1894 qui, dans ses amélioration du récepteur, parvient à enlever la conductibilité de la limaille automatiquement. 
-					En 1895, lors de ses études sur la détection des orages, l'ingénieur de la Marine Impériale Russe Alexandre Popov a l'idée de raccorder le fil d'un paratonnerre, relié à la terre, à un récepteur de Branly-Lodge. 
+					Ce problème sera réglé par le physicien anglais <strong>Sir Oliver Lodge</strong> en 1894 qui, dans ses amélioration du récepteur, parvient à enlever la conductibilité de la limaille automatiquement. 
+					En 1895, lors de ses études sur la détection des orages, l'ingénieur de la Marine Impériale Russe <strong>Alexandre Popov</strong> a l'idée de raccorder le fil d'un paratonnerre, relié à la terre, à un récepteur de Branly-Lodge. 
 					Il invente ainsi l'antenne-terre, qui permet d'accroître fortement les distances. 
 					Malgré un grand intérêt de tous ces physiciens dans l'étude des ondes et de leur émission-recéption, aucun n'imaginait réellement utiliser ce système pour transmettre de l'information. 
 					Les distances paraissaient trop grandes à franchir, et beaucoup ne voyaient dans ce nouveau système qu'un intérêt pédagogique.
@@ -96,18 +96,24 @@
 					Entrevoyant l'immense potentialité de ce qu'il venait d'inventer, il part en Angleterre en 1896, où il dépose un brevet. 
 					Après avoir atteint les cinq, dix, quinze kilomètres, il parvient à effectuer sa première liaison à travers la Manche (46 km) en 1899, et atteint une distance de plus de 3000 km à travers l'Atlantique deux ans plus tard. 
 					La TSF commence à se faire connaître partout dans le monde. 
-					En France, c'est l'ingénieur <strong>Eugène Ducretet</strong> qui établira les premières liaisons, d'abord du Pantéon jusqu'à son laboratoire (400 m), puis jusqu'à la Tour Eiffel (4 km). 
+					En France, c'est l'ingénieur <strong>Eugène Ducretet</strong> qui établira les premières liaisons, d'abord du Panthéon jusqu'à son laboratoire (400 m), puis jusqu'à la Tour Eiffel (4 km). 
 					La voix est transmise sur les ondes pour la première fois en 1900 grâce au Canadien Reginald Fessenden. 
+				</p>
+				
+				<p class="paragraphe">	
 					Toutefois, la qualité est encore assez mauvaise, ce qui rend la TSF moins efficace que le télégraphe électrique. 
-					L'ingénieur <strong>Nicolas Tesla</strong> améliore la qualité de reception en réglant la longueur d'onde du circuit du détecteur sur celle de l'émetteur. 
+					Plusieurs ingénieurs et physiciens tenteront de combler cette lacune.
+					L'ingénieur Serbe <strong>Nicolas Tesla</strong> améliore la qualité de reception en réglant la longueur d'onde du détecteur sur celle de l'émetteur. 
+					De même pour le militaire français <strong>Gustave Ferrié</strong>, général dans l'armée de terre et dans la Marine Nationale, qui invente en 1900 le détecteur électrolytique, plus performant que le récepteur de Lodge. 
 					En 1904, <strong>John Fleming</strong> dépose le brevet d'une lampe à deux électrodes détectant les ondes électromagnétiques. 
-					Lee de Forest l'améliore en y ajoutant une troisième électrode, et invente ainsi la triode, qui permet d'amplifier l'intensité du signal. 
-					Le militaire français <strong>Gustave Ferrié</strong>, général dans l'armée de terre et dans la Marine Nationale, invente en 1900 le détecteur électrolytique, plus performant que le récepteur de Lodge. 
+					<strong>Lee de Forest</strong> l'améliore en y ajoutant une troisième électrode, et invente ainsi la triode, ou « audion » qui permet d'amplifier l'intensité du signal. 
 					On voit donc bien que la TSF n'est pas le fruit d'un seul homme, mais bien une combinaison d'avancées scientifiques et techniques, dont on entrevoit très vite les possibilités en terme de télécommunication.
 				</p>
 				
 				<p class="paragraphe">							
-					Ainsi, la radio est née de la rencontre entre une nécessité historique, le besoin d'un nouveau moyen de communiquer, sans utiliser de fil, et une révolution d'un point de vue physique : la découverte des ondes électromagnétiques. Grâce à de nombreux scientifiques, mais également à des hommes qui en ont vu les potentialités pratiques, la TSF apparaît au milieu des années 1890, et, après plusieurs améliorations, est prête à être utilisée au début XXe siècle. Les militaires et les marins s'intéressent de prêt à cette nouvelle invention, d'autant plus que la sensation d'une guerre proche monte de jour en jour.
+					Ainsi, la radio est née de la rencontre entre une nécessité historique, le besoin d'un nouveau moyen de communiquer, sans utiliser de fil, et une révolution d'un point de vue physique : la découverte des ondes électromagnétiques. 
+					Grâce à de nombreux scientifiques, mais également à des hommes qui en ont vu les potentialités pratiques, la TSF apparaît au milieu des années 1890, et, après plusieurs améliorations, est prête à être utilisée au début XXe siècle. 
+					Les militaires et les marins s'intéressent de prêt à cette nouvelle invention, d'autant plus que la sensation d'une guerre proche monte de jour en jour.
 				</p>
 			<h2>
 		</section>
