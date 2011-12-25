@@ -3,7 +3,7 @@ body
     background-color : #f1f1f1;
     margin : auto;
     min-width : 1009px;
-    font: 80% "Trebuchet MS",Verdana,"Lucida Grande",Tahoma,Helvetica,Sans-Serif;
+    font: 90% "Trebuchet MS",Verdana,"Lucida Grande",Tahoma,Helvetica,Sans-Serif;
 }
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Titres -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
@@ -12,6 +12,25 @@ h1
 {
 	text-align: center;
 	color: red; /* Temporaire, je te laisse le soin de la choisir et de la mettre en hexa */
+}
+
+h2
+{
+	text-align: center;
+	color: blue; /* De même */
+}
+
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Mise en forme -|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+.problematique
+{
+	font-style: italic;
+}
+
+.paragraphe
+{
+	text-indent: 30px;
+	text-align: justify;
 }
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Banniere du site -|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
