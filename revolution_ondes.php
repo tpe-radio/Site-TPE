@@ -30,11 +30,11 @@
 		<section id="contenu">
 			<h1>La radio comme moyen de télécommunication</h1>
 			
-			<h2>La Révolution des ondes</h2>
+			<h3>La Révolution des ondes</h3>
 			
 				<p class="problematique">Quelles sont les différentes découvertes et expériences qui ont ménées à l'invention de la radio à la fin du XIXe siècle ?</p>
 				
-				<h3>La radio, une nécessité historique</h3>
+				<h4>La radio, une nécessité historique</h4>
 				
 				<p class="paragraphe">
 					De tout temps, les hommes ont éprouvé un besoin de communiquer.
@@ -52,7 +52,7 @@
 					C'est ainsi qu'apparaît à la fois accidentellement et de façon nécessaire, à la fin des années 1880, <strong>la télégraphie sans fil</strong>, ou <strong>TSF</strong>, qui deviendra plus tard la radio.
 				</p>
 				
-				<h3>La révolution de l'électromagnétisme</h3>
+				<h4>La révolution de l'électromagnétisme</h4>
 				
 				<p class="paragraphe">
 					L'invention de la TSF a été rendue possible en partie grâce aux nombreuses découvertes et experiences physiques qui se sont opérées durant le XIXe siècle.
@@ -69,7 +69,7 @@
 					Il ne se livrera toutefois à aucune expérience.
 				</p>
 				
-				<h3>La TSF, une invention progressive aux multiples auteurs</h3>
+				<h4>La TSF, une invention progressive aux multiples auteurs</h4>
 				
 				<p class="paragraphe">
 					La première transmission d'ondes électromagnétiques est due au physicien allemand <strong>Heinrich Hertz</strong>. 
@@ -115,10 +115,11 @@
 					Grâce à de nombreux scientifiques, mais également à des hommes qui en ont vu les potentialités pratiques, la TSF apparaît au milieu des années 1890, et, après plusieurs améliorations, est prête à être utilisée au début XXe siècle. 
 					Les militaires et les marins s'intéressent de prêt à cette nouvelle invention, d'autant plus que la sensation d'une guerre proche monte de jour en jour.
 				</p>
-			<h2>
 		</section>
+		
+		</div>
                 
-                <?php include("includes/footer/footer.php"); ?>	
+                <?php include("includes/footer/footer.php"); ?>
                 
 	</body>
 </html>

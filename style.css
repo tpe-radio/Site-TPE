@@ -6,33 +6,6 @@ body
     font: 90% "Trebuchet MS",Verdana,"Lucida Grande",Tahoma,Helvetica,Sans-Serif;
 }
 
-/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Titres -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-
-h1
-{
-	text-align: center;
-	color: red; /* Temporaire, je te laisse le soin de la choisir et de la mettre en hexa */
-}
-
-h2
-{
-	text-align: center;
-	color: blue; /* De même */
-}
-
-/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Mise en forme -|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-
-.problematique
-{
-	font-style: italic;
-}
-
-.paragraphe
-{
-	text-indent: 30px;
-	text-align: justify;
-}
-
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Banniere du site -|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 header
@@ -43,7 +16,8 @@ header
     width : 100%;
     min-width : 1009px;
 }
-div.header_text{
+div.header_text
+{
     background : url("images/fond/header_title.png") no-repeat;
     padding-left : 70px;
     height : 70px;
@@ -51,16 +25,19 @@ div.header_text{
     top : 30px;
     left : 20px;
 }
-header p{
+header p
+{
     margin : 0;
     padding : 0;
 }
-#header_title{
+#header_title
+{
     color : #e3e3e3;
     font-size : 25px;
     text-shadow : 0 0 5px #fff;
 }
-#header_subtitle{
+#header_subtitle
+{
     color : #588f23;
     font-size : 15px;
     text-shadow : 0 0 5px #000;
@@ -68,8 +45,9 @@ header p{
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Onglets -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
-#nav_onglets{
-    background-image : url("images/fond/nav_onglets1.png");
+#nav_onglets
+{
+    background-image : url("images/fond/nav_onglets.png");
     height : 40px;
     margin-bottom : 30px;
     min-width : 1009px;
@@ -82,7 +60,7 @@ header p{
     text-align : center;
     height : 20px;
     min-height : 20px;
-    width : 600px;
+    width : 580px;
     margin : auto;
     padding-top : 9px;
     padding-bottom : 9px;
@@ -99,21 +77,21 @@ header p{
 #onglets a
 {
     padding : 4px;
-    color : #000;
+    color : #3f3f3f;
     text-decoration : none;
     line-height : 200%;
-    /*font-variant : small-caps;*/
+    text-shadow : #fff 0px 0px 2px;
 }
 #onglets a:hover
 {
     color : #B3D53C;
-    /*border-bottom : 3px solid #0c5500;*/
-    /*text-shadow : #fff 0px 0px 5px;*/
+    text-shadow : #fff 0px 0px 5px;
 }
 
 /*|||||||||||||||||||||||||||||||||||||||||||||||- Contenant du Menu de Gauche, et du Contenu de la Page -|||||||||||||||||||||||||||||||||||||||||||||||*/
 
-#corps{
+#corps
+{
     width : 990px;
     min-width : 990px;
     margin : auto;
@@ -122,13 +100,15 @@ header p{
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Menu de Gauche de la Page -||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
-#menu_gauche{
+#menu_gauche
+{
     display: inline-block;
     vertical-align: top;
     margin-right: 10px;
 }
-p.navg_title{
-    background-image : url("images/fond/navg_title1.png");
+p.navg_title
+{
+    background-image : url("images/fond/navg_title.png");
     margin : 0;
     padding : 5px;
     padding-top : 7px;
@@ -136,29 +116,38 @@ p.navg_title{
     text-align : center;
     font-size : 120%;
     font-weight : bold;
-    color: #931f00;
-    text-shadow : 0px 0px 1px #abc;
+    color: #5d97de;
+    text-shadow : 0px 0px 3px #000;
 }
-nav.nav_gauche{
+nav.nav_gauche
+{
     width : 220px;
     margin-bottom : 18px;
     border-image: url("images/fond/menu_gauche.png") 3 stretch;
     -moz-border-image: url("images/fond/menu_gauche.png") 3 stretch;
     -webkit-border-image: url("images/fond/menu_gauche.png") 3 stretch;
 }
-#menu_gauche ul /*Permet de ne pas indenter les listes du premier degré */{
+#menu_gauche ul /*Permet de ne pas indenter les listes du premier degré */
+{
     list-style-type : none;
     margin-left : 0;
     padding-left : 0;
 }
-.navigation{
+.navigation
+{
     margin: 0;
     padding: 0;
+    padding-top : 10px;
     list-style: none;
     font: 10px Arial, Trebuchet MS;
     padding-bottom : 20px;
 }
-.navigation a {
+.navigation li
+{
+    padding-top : 5px;
+}
+.navigation a
+{
     display : block;
     padding-bottom : 5px;
     padding-top : 5px;
@@ -168,46 +157,15 @@ nav.nav_gauche{
     color : /*#5689cf; */ #305587;
     font-size : 12px;
 }
-.navigation a:hover, .navigation span:hover{
-    color : #5ba035;
-}
-.navigation li.toggleSubMenu{
-    background-image : url("/images/fleche-droite-petit.png");
-    background-position : 210px 15px;
-    background-repeat : no-repeat;
-    padding-top : 5px;
-}
-.navigation li.toggleSubMenua{
-    background : none;
-    padding-top : 5px;
-}
-.navigation li.open{
-    background : url("/images/fleche-bas-petit.png") no-repeat 210px 15px;
-}
-.navigation li.open a{
-    color : #5ba035;
-}
-.navigation li.open ul.subMenu{
-    border-top : 1px solid #878787;
-}
-.navigation li img{
-    foat : left;
-}
-.navigation ul.subMenu{
-    background-color : #517cb1;
-    font: 10px Trebuchet MS, sans-serif;
-}
-.navigation ul.subMenu a{
-    color : #f1f1f1;
-    font-style : italic;
-}
-.navigation ul.subMenu a:hover{
+.navigation a:hover
+{
     color : #d99b08;
 }
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Contenant des données de la Page -|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
-section{
+section
+{
     display : inline-block;
     vertical-align : top;
     padding : 20px;
@@ -220,14 +178,54 @@ section{
     z-index : -1;
 }
 
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Titres -|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+h1
+{
+    text-align: center;
+    color: #a03032;
+    margin-bottom : 40px;
+}
+h3
+{
+    color: #0f3f70;
+    /*font-size : 20px;*/
+}
+h4
+{
+    color : #d99b08;
+    font-style : italic;
+}
+
+/*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Mise en forme -|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+.problematique
+{
+    font-style: italic;
+}
+.paragraphe
+{
+    text-indent: 30px;
+    text-align: justify;
+}
+section ul li
+{
+    list-style-type : none;
+}
+section ol li
+{
+    list-style-type : decimal;
+}
+
 /*|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||- Footer, droits ... -|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
-footer{
+footer
+{
     margin : auto;
     width : 970px;
     min-width : 970px;
     background-color : #505050;
-    margin-top : 20px;
+    margin-top : 70px;
     padding : 10px;
     padding-top : 30px;
     padding-bottom : 40px;
@@ -241,19 +239,23 @@ footer{
     position : relative;
     z-index : 1;
 }
-footer a{
+footer a
+{
     color : #e7e1b6;
     font-style : bold;
 }
-footer a:hover{
+footer a:hover
+{
     color : #d99b08;
 }
-div.radiof{
+div.radiof
+{
     position : absolute;
     left : -70px;
     bottom : 100px;
 }
-div.radiof img{
+div.radiof img
+{
     -moz-transform: translate(100px) rotate(20deg);
     -moz-transform-origin: 60% 100%;
     -webkit-transform: translate(100px) rotate(20deg);
@@ -261,7 +263,8 @@ div.radiof img{
     transform: translate(100px) rotate(20deg);
     transform-origin: 60% 100%;
 }
-footer blockquote{
+footer blockquote
+{
     background-image : url("images/fond/footer_bq.png");
     background-position : 0px 5px;
     background-repeat : no-repeat;
