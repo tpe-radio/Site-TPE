@@ -32,7 +32,7 @@
 			
 			<h3>La Révolution des ondes</h3>
 			
-				<p class="problematique">Quelles sont les différentes découvertes et expériences qui ont ménées à l'invention de la radio à la fin du XIXe siècle ?</p>
+				<p class="problematique">Quelles sont les différentes découvertes et expériences qui ont méné à l'invention de la radio à la fin du XIX<sup>e</sup> siècle ?</p>
 				
 				<h4>La radio, une nécessité historique</h4>
 				
@@ -41,12 +41,12 @@
 					Ils utilisèrent d'abord les gestes, la parole et l'écriture.
 					Pour pouvoir aller plus loin dans les communications, ils élaborèrent divers systèmes au cours du temps : les messagers, le courrier postale, les pigeons voyageurs, etc.
 					Ces systèmes étaient souvent trop lents, ou pas assez fiables. 
-					À la fin du XVIIIe siècle, alors que la France traverse un des moments les plus importants de son histoire, un besoin de faire passer rapidement l'information à l'intérieur du pays se fait ressentir.
+					À la fin du XVIII<sup>e</sup> siècle, alors que la France traverse un des moments les plus importants de son histoire, un besoin de faire passer rapidement l'information à l'intérieur du pays se fait ressentir.
 					C'est ainsi qu'est élaboré par l'inventeur français Claude Chappe le <strong>télégraphe optique</strong>, ou sémaphore. 
 					Il consiste en une tour très haute, avec deux leviers au sommet, qui, bien dirigés, permettent d'écrire des symboles et de faire ainsi passer des messages à d'autres tours du même type. 
 					Ce système sera utilisé jusqu'au milieu du siècle suivant, où il sera en partie remplacé par le <strong>télégraphe électrique</strong>. 
 					Ce moyen de télécommunication, élaboré grâce aux découvertes en électricité de l'époque, permet une communication beaucoup plus rapide, supprime les contraintes dues aux conditions atmosphériques (le sémaphore ne pouvant être utilisé pendant des brouillards ou de fortes pluies), et permet une diffusion plus ciblée de l'information. 
-					La frontière de l'océan est enfin supprimée, et les communication se font désormais quasi-instantanément à travers le monde. 
+					La frontière de l'océan est enfin supprimée, et les communications se font désormais quasi-instantanément à travers le monde. 
 					L'invention du téléphone par Bell en 1877, permet enfin de transmettre la voix sur de longues distances. 
 					Toutefois, malgré une grande amélioration des moyens de communication, la contrainte du fil est toujours présente. Les cables coûtent cher, peuvent être coupés facilement, et, surtout, ne peuvent pas être réliés avec des objets mobiles comme des bâteaux ou des voitures. 
 					C'est ainsi qu'apparaît à la fois accidentellement et de façon nécessaire, à la fin des années 1880, <strong>la télégraphie sans fil</strong>, ou <strong>TSF</strong>, qui deviendra plus tard la radio.
@@ -55,17 +55,17 @@
 				<h4>La révolution de l'électromagnétisme</h4>
 				
 				<p class="paragraphe">
-					L'invention de la TSF a été rendue possible en partie grâce aux nombreuses découvertes et experiences physiques qui se sont opérées durant le XIXe siècle.
+					L'invention de la TSF a été rendue possible en partie grâce aux nombreuses découvertes et experiences physiques qui se sont opérées durant le XIX<sup>e</sup> siècle.
 					Une nouvelle branche de l'électricité apparaît en effet au début du siècle et prend une  importance particulière dans la communauté scientifique : l'électromagnétisme, c'est-à-dire l'étude des liaisons entre l'électricité et le magnétisme. 
 					On doit l'apparition de cette science à un physicien danois sous le nom d'<strong>Oersted</strong>. 
 					Il découvre lors d'une expérience devant ses élèves en avril 1820 qu'un fil transportant du courant est capable de faire varier les aiguilles d'une boussole. 
 					Les physiciens français <strong>Ampère</strong> et <strong>Arago</strong> suivent de près ses expériences. 
 					Ampère donne une première explication à ce  phénomène, par la création d'un champ magnétique autour d'un courant électrique, et fournit les premiers fondements mathématiques de cette nouvelle science. 
 					Arago découvre qu'en mettant un fil de courant en présence de fer, celui-ci se comporte comme un aimant : il invente ainsi, avec l'aide d'Ampère, l'électroaimant. 
-					Quelques année plus tard, en 1831, <strong>Faraday</strong>, physicien et chimiste britannique, découvre qu'un aimant peut agir sur un circuit électrique, et créer du courant. 
+					Quelques années plus tard, en 1831, <strong>Faraday</strong>, physicien et chimiste britannique, découvre qu'un aimant peut agir sur un circuit électrique, et créer du courant. 
 					Il forge ainsi en 1831 la théorie de l'induction électromagnétique, qui consiste en la transformation d'énergie mécanique en énergie électrique. 
 					Un des apports les plus importants dans la théorie de l'électromagnétisme reste celui de <strong>James Clerk Maxwell</strong>, physicien et mathématicien écossais. 
-					Il parvient en effet à unifier sous la forme de vingt équations les relations entre l'électricité et le magnétisme, et prouve en 1864 l'existence des ondes électromagnétiques, ouvrant ainsi la voie à l'émission d'ondes radio. 
+					Il parvient en effet à unifier sous la forme de vingt équations les relations entre l'électricité et le magnétisme, et prouve en 1864 l'existence des ondes électromagnétiques, ouvrant ainsi la voie à l'émission d'ondes radios. 
 					Il ne se livrera toutefois à aucune expérience.
 				</p>
 				
@@ -74,12 +74,12 @@
 				<p class="paragraphe">
 					La première transmission d'ondes électromagnétiques est due au physicien allemand <strong>Heinrich Hertz</strong>. 
 					Dans une volonté de vérifier expérimentalement les prédictions de Maxwell, notamment l'existence d'ondes électriques, il réalise en 1888 un émetteur, constitué d'un éclateur à étincelle alimenté par une bobine, et un détecteur, consistant en une simple boucle de fil de cuivre ouverte, dont les extrêmités sont très proches. 
-					Lorsque l'éclateur fonctionne, il constate qu'une toute petite étincelle apparaît entre les deux extrémités du détecteur, situé à quelques mètres. 
+					Lorsque l'éclateur fonctionne, il constate qu'une toute petite étincelle apparaît entre les deux extrémités du détecteur, situées à quelques mètres. 
 					L'existence de ce que l'on appellera plus tard les « ondes hertziennes » est démontrée. 
 					Toutefois, ce concept n'a, en l'état, encore aucune application pratique possible. 
 					Deux ans plus tard, le français <strong>Edouard Branly</strong>, lors de ses études sur la conductibilité, constate qu'un tube de verre contenant de la limaille de fer devient conducteur en présence d'ondes électromagnétiques. 
-					Il s'agit du premier récepteur réellement utilisable, bien qu'il faille encore tapoter dessus entre chaque réceptions pour lui enlever sa conductibilité. 
-					Ce problème sera réglé par le physicien anglais <strong>Sir Oliver Lodge</strong> en 1894 qui, dans ses amélioration du récepteur, parvient à enlever la conductibilité de la limaille automatiquement. 
+					Il s'agit du premier récepteur réellement utilisable, bien qu'il faille encore tapoter dessus entre chaque réception pour lui enlever sa conductibilité. 
+					Ce problème sera réglé par le physicien anglais <strong>Sir Oliver Lodge</strong> en 1894 qui, dans ses améliorations du récepteur, parvient à enlever la conductibilité de la limaille automatiquement. 
 					En 1895, lors de ses études sur la détection des orages, l'ingénieur de la Marine Impériale Russe <strong>Alexandre Popov</strong> a l'idée de raccorder le fil d'un paratonnerre, relié à la terre, à un récepteur de Branly-Lodge. 
 					Il invente ainsi l'antenne-terre, qui permet d'accroître fortement les distances. 
 					Malgré un grand intérêt de tous ces physiciens dans l'étude des ondes et de leur émission-recéption, aucun n'imaginait réellement utiliser ce système pour transmettre de l'information. 
@@ -93,7 +93,7 @@
 					La TSF est née. 
 					Il se lance alors sur le projet d'augmenter les distances, et en fera une obsession technique. 
 					Il atteint les cent mètre à la fin de l'année 1895. 
-					Entrevoyant l'immense potentialité de ce qu'il venait d'inventer, il part en Angleterre en 1896, où il dépose un brevet. 
+					Entrevoyant l'immense potentialité de ce qu'il vient d'inventer, il part en Angleterre en 1896, où il dépose un brevet. 
 					Après avoir atteint les cinq, dix, quinze kilomètres, il parvient à effectuer sa première liaison à travers la Manche (46 km) en 1899, et atteint une distance de plus de 3000 km à travers l'Atlantique deux ans plus tard. 
 					La TSF commence à se faire connaître partout dans le monde. 
 					En France, c'est l'ingénieur <strong>Eugène Ducretet</strong> qui établira les premières liaisons, d'abord du Panthéon jusqu'à son laboratoire (400 m), puis jusqu'à la Tour Eiffel (4 km). 
